@@ -2,7 +2,7 @@ public with sharing class myclass {
 	public myclass() {
 		//test5
 		//test2
-		//test5
+		//test6
 
 	}
 
